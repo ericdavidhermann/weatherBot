@@ -17,7 +17,7 @@ This includes shorthand queries like "get temp", "what weather", "is it hot", et
 ![](supportingDocs/weatherBotFlow.png)
 
 
-![](supportingDocs/botSample)
+![](supportingDocs/botSample.png)
 
 
 Licensed under GNU GPL v3.0
